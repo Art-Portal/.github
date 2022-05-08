@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🙋‍♀️ Art'Portal is a french discord server which goal is to propose free graphism services to everyone.
-🌈 Anyone can contribute ! If you need any support or help or idk, just join our server and feel free to ask !
-👩‍💻 This Github organisation currently contains our private discord bot, Aprıl, which is now open-source !
+🙋‍♀️ Art'Portal is a french discord server which goal is to propose free graphism services to everyone.\n
+🌈 Anyone can contribute ! If you need any support or help or idk, just join our server and feel free to ask !\n
+👩‍💻 This Github organisation currently contains our private discord bot, Aprıl, which is now open-source !\n
 🍿 Fun facts:
 - @Ninjdai1 (The guy with the chicken pp) is veggie
-- Aprıl contains a special character (ı) because when we tried to give her the name April, it was already taken by 10k accounts, so :( no room for her. It does look cool, though.
+- Aprıl contains a special character (ı) because when we tried to give her the name April, it was already taken by 10k accounts, so :( no room for her. It does look cool, though.\n
 🧙 [Discord server link](https://discord.gg/graphisme)
