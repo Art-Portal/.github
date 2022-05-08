@@ -8,4 +8,4 @@
   <li>@Ninjdai1 (The guy with the chicken pp) is veggie</li>
   <li>Aprıl contains a special character (ı) because when we tried to give her the name April, it was already taken by 10k accounts, so :( no room for her. It does look cool, though.</li>
  </ul>
-<p/>🧙 <a src="https://discord.gg/graphisme" target="_blank">Discord server link</a>
+<p/>🧙 <a href="https://discord.gg/graphisme" target="_blank">Discord server link</a>
