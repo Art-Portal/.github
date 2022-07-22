@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<b><i>April's repo is being completely revamped, and will soon be available again !</i></b>
+
 <p/>🙋‍♀️ Art'Portal is a french discord server which goal is to propose free graphism services to everyone.
 <p/>🌈 Anyone can contribute ! If you need any support or help or idk, just join our server and feel free to ask !
 <p/>👩‍💻 This Github organisation currently contains our private discord bot, Aprıl, which is now open-source !
